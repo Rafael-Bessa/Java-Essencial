@@ -27,3 +27,4 @@
 
 - ``Formação Java e Orientação a Objetos - Alura`` - https://cursos.alura.com.br/degree/certificate/4efae442-5331-4c56-a304-33ee1f4b7bf3
 - ``Java Orientação a Objetos - Instituto Tecnológico de Aeronáutica`` - https://coursera.org/share/6bd7e23432cb71ed54816a87708ee632
+- ``CERTIFICAÇÃO JAVA SE 7 PROGRAMMER I - Alura`` - https://cursos.alura.com.br/certificate/40a6ced0-07ca-4370-975d-691b02f2686a

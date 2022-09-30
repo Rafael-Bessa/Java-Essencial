@@ -28,3 +28,16 @@
 - ``Formação Java e Orientação a Objetos - Alura`` - https://cursos.alura.com.br/degree/certificate/4efae442-5331-4c56-a304-33ee1f4b7bf3
 - ``Java Orientação a Objetos - Instituto Tecnológico de Aeronáutica`` - https://coursera.org/share/6bd7e23432cb71ed54816a87708ee632
 - ``CERTIFICAÇÃO JAVA SE 7 PROGRAMMER I - Alura`` - https://cursos.alura.com.br/certificate/40a6ced0-07ca-4370-975d-691b02f2686a
+
+## Destaque do Repositório
+
+No curso do **ITA - ORIENTAÇÃO A OBJETOS**, o projeto final, vale a pena ver. Foi criado um jogo das palavras embaralhadas, seguindo todas as melhores práticas de orientação a objetos, além disso, existem testes unitários feitos com o JUnit5 e no projeto final tem até um diagrama UML DE CLASSES do jogo. Ao final do trabalho gravei um vídeo no Youtube para demonstrar a funcionalidade do jogo.
+Para os interessados em reproduzir o jogo, não foi utilizado nenhuma tecnologia diferente, a única recomendação é adicionar o JUnit5 ao path do seu projeto.
+
+- ``Link do vídeo`` - https://www.youtube.com/watch?v=7htgRHHZGLM&t=3s&ab_channel=RafaelBessa
+
+## Outros
+
+- ``Me adicione no LinkedIn`` - https://www.linkedin.com/in/rafaelmbessa/ 
+
+- ``Meu perfil no HackerRank`` - https://www.hackerrank.com/Iambessa

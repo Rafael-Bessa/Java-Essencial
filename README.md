@@ -34,7 +34,13 @@
 No curso do **ITA - ORIENTAÇÃO A OBJETOS**, o projeto final, vale a pena ver. Foi criado um jogo das palavras embaralhadas, seguindo todas as melhores práticas de orientação a objetos, além disso, existem testes unitários feitos com o JUnit5 e no projeto final tem até um diagrama UML DE CLASSES do jogo. Ao final do trabalho gravei um vídeo no Youtube para demonstrar a funcionalidade do jogo.
 Para os interessados em reproduzir o jogo, não foi utilizado nenhuma tecnologia diferente, a única recomendação é adicionar o JUnit5 ao path do seu projeto.
 
-- ``Link do vídeo`` - https://www.youtube.com/watch?v=7htgRHHZGLM&t=3s&ab_channel=RafaelBessa
+<div> 
+
+  [Vídeo do YouTube](https://www.youtube.com/embed/7htgRHHZGLM?si=r9KUKM5OSmYNtXXq)
+  
+  ![Imagem do vídeo do YouTube](https://github.com/Rafael-Bessa/Java-Essencial/assets/104053775/bb956bae-6ea1-445e-a429-7434d75773ad) 
+
+</div>
 
 ## Outros
 
